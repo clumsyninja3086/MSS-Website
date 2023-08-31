@@ -38,7 +38,7 @@ function Navigation() {
 <nav class="navbar navbar-expand-lg">
     <div class="container">
         <a class="navbar-brand" href="index.html">
-            <img src="images/elogo.jfif" class="logo img-fluid" alt="" />
+            <img src="images/avatar/eloogo.png" class="logo img-fluid" alt="" />
 
             <span class="ms-2">Ecell Mjcet</span>
         </a>

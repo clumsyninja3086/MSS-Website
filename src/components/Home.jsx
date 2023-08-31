@@ -15,7 +15,7 @@ function Home() {
                 <h1 class="cd-headline rotate-1 text-white mb-4 pb-2">
                     <span>We help to </span>
                     <span class="cd-words-wrapper">
-                        <b class="is-visible">Create</b>
+                        <b class="is-visible">Invent</b>
                         <b>Innovate</b>
                         <b>Inspire</b>
                     </span>
@@ -53,10 +53,9 @@ function Home() {
             <div class="col-lg-6 col-12">
                 <h2 class="mb-4">Create <br/> Innovate &amp; Inspire</h2>
                 <p>
-                    <a href="#">E-Cell</a> is student chapter of Muffakham Jah College of Engineering & Technology, affiliated to Osmania University, Hyderabad.<br/> 
-The Mission of the student club is to foster entrepreneurial thinking, promote business knowledge and inculcate confidence in every student. It involves establishment of one’s own enterprise, 
-through the development of <strong>leadership</strong> skills,<strong>creativity</strong> and <strong>problem solving</strong>. To promote and facilitate the study and practice of entrepreneurship, connect students with experienced alumni and local entrepreneurs and turn them into dynamic business oriented young leaders.
-We focus on 100% development of an idea and ensure it undergoes execution. Promoting Entrepreneurial culture is an oath we take every year at the NEN award ceremony.
+                The <strong>Microsoft Student Society</strong> is a place where students can unite, build, and grow. This Society serves as a platform for the students to build their network and enhance their technical skills by utilizing all the latest technologies that <strong>Microsoft Company</strong> and <strong>Student Chapter at MJCET</strong> has to offer.
+All of our members get brilliant exposure as part of our effort to help them advance in their areas of expertise. The <strong>MSS</strong> offers a well-established network that has made interaction amongst various Microsoft groups possible in order to do this.
+We believe in advancing together rather than individually.
 
                 </p>
                 </div>
@@ -71,7 +70,7 @@ We focus on 100% development of an idea and ensure it undergoes execution. Promo
                         <i class="bi-envelope-fill me-2"></i>
 
                 <a href="mailto:info@company.com" class="site-footer-link">
-                    ecell@gmail.com
+                    MSS@gmail.com
                 </a>
                     </p>
                 </div>
@@ -96,8 +95,9 @@ We focus on 100% development of an idea and ensure it undergoes execution. Promo
                         <div class="col-lg-5 col-md-5 col-12">
                             <div class="services-image-wrap">
                                 <a href="services-detail.html">
-                                    <img src="images/services/hacka.jpg" class="services-image img-fluid" alt=""/>
-                                    <img src="images/services/hack2.jpg" class="services-image services-image-hover img-fluid" alt=""/>
+                                <img src="images/avatar/imaginehack.png" className="services-image img-fluid" alt="" style={{ maxWidth: '100%' }} />
+
+                                    <img src="images/avatar/eloogo.png" class="services-image services-image-hover img-fluid" alt=""/>
 
                                 </a>
                             </div>
@@ -106,7 +106,7 @@ We focus on 100% development of an idea and ensure it undergoes execution. Promo
                         <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
                             <div class="services-info mt-4 mt-lg-0 mt-md-0">
                                 <h4 class="services-title mb-1 mb-lg-2">
-                                    <a class="services-title-link" href="services-detail.html">Hack Revolution</a>
+                                    <a class="services-title-link" href="services-detail.html">Imagine Hack</a>
                                 </h4>
 
                                 <p>Hackathon Lorem ipsum dolor sit amet consectetur adipisicing elit. ametr lorem</p>
@@ -137,8 +137,8 @@ We focus on 100% development of an idea and ensure it undergoes execution. Promo
                         <div class="col-lg-5 col-md-5 col-12">
                             <div class="services-image-wrap">
                                 <a href="services-detail.html">
-                                    <img src="images/services/hacka.jpg" class="services-image img-fluid" alt=""/>
-                                    <img src="images/services/hack2.jpg" class="services-image services-image-hover img-fluid" alt=""/>
+                                    <img src="images/avatar/eloogo.png" class="services-image img-fluid" alt=""/>
+                                    <img src="images/avatar/eloogo.png" class="services-image services-image-hover img-fluid" alt=""/>
 
                                 </a>
                             </div>
@@ -179,8 +179,8 @@ We focus on 100% development of an idea and ensure it undergoes execution. Promo
                         <div class="col-lg-5 col-md-5 col-12">
                             <div class="services-image-wrap">
                                 <a href="services-detail.html">
-                                    <img src="images/services/hacka.jpg" class="services-image img-fluid" alt=""/>
-                                    <img src="images/services/hack2.jpg" class="services-image services-image-hover img-fluid" alt=""/>
+                                    <img src="images/avatar/eloogo.png" class="services-image img-fluid" alt=""/>
+                                    <img src="images/avatar/eloogo.png" class="services-image services-image-hover img-fluid" alt=""/>
 
                                     
                                 </a>
@@ -221,8 +221,8 @@ We focus on 100% development of an idea and ensure it undergoes execution. Promo
                         <div class="col-lg-5 col-md-5 col-12">
                             <div class="services-image-wrap">
                                 <a href="services-detail.html">
-                                    <img src="images/services/hacka.jpg" class="services-image img-fluid" alt="" />
-                                    <img src="images/services/hack2.jpg" class="services-image services-image-hover img-fluid" alt="" />
+                                    <img src="images/avatar/eloogo.png" class="services-image img-fluid" alt="" />
+                                    <img src="images/avatar/eloogo.png" class="services-image services-image-hover img-fluid" alt="" />
 
 
                                 </a>
