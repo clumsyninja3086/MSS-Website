@@ -39,25 +39,29 @@ function About() {
 
               <div class="col-lg-6 col-12">
                 <div class="featured-block">
-                  <h2 class="mb-4">Entrepreneurship Since 2018</h2>
+                  <h2 class="mb-4">Innovation starts here</h2>
                   <p>
-                    <a href="#">E-Cell</a> is student chapter of Muffakham Jah
+                    <a href="#">MSS</a> is student chapter of Muffakham Jah
                     College of Engineering & Technology, affiliated to Osmania
                     University, Hyderabad.
                     <br />
-                    The Mission of the student club is to foster entrepreneurial
-                    thinking, promote business knowledge and inculcate
-                    confidence in every student. It involves establishment of
-                    one’s own enterprise, through the development of{" "}
-                    <strong>leadership</strong> skills,
-                    <strong>creativity</strong> and{" "}
-                    <strong>problem solving</strong>. To promote and facilitate
-                    the study and practice of entrepreneurship, connect students
-                    with experienced alumni and local entrepreneurs and turn
-                    them into dynamic business oriented young leaders. We focus
-                    on 100% development of an idea and ensure it undergoes
-                    execution. Promoting Entrepreneurial culture is an oath we
-                    take every year at the NEN award ceremony.
+                    The Microsoft Student Society is a place where students can
+                    unite, build and grow. This Society serves as a platform for
+                    the students to build their network and enhance their
+                    technical skills by utilising all the latest technologies
+                    that Microsoft Company and Student Chapter at MJCET has to
+                    offer. All of our members get brilliant exposure as part of
+                    our effort to help them advance in their areas of expertise.
+                    The MSS offers a well-established network that has made
+                    interaction amongst various Microsoft groups possible in
+                    order to do this. We believe in advancing together rather
+                    than individually. In order to refine and polish our own
+                    skillsets and the skillsets of those around us. We at MSS
+                    make sure to invest the time, effort, and energy necessary
+                    to excel in a variety of stream-related projects and
+                    services. The Microsoft Student Society is an initiative
+                    taken to empower the students of today to create the
+                    world of tomorrow.
                   </p>
                   <a
                     class="custom-btn btn button button--atlas mt-3"
