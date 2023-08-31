@@ -1,2 +1,1 @@
-# Ecell-mjcet
-ECELL MJCET WEBSITE.
+MSS Website 
