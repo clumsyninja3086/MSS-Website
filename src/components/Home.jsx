@@ -147,7 +147,7 @@ We believe in advancing together rather than individually.
                         <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
                             <div class="services-info mt-4 mt-lg-0 mt-md-0">
                                 <h4 class="services-title mb-1 mb-lg-2">
-                                    <a class="services-title-link" href="services-detail.html">Prep 2 Hack</a>
+                                    <a class="services-title-link" href="services-detail.html">MSS Live</a>
                                 </h4>
 
                                 <p>Best Preperation for hack Provider Ipsum dolor sit consectetur kengan</p>
@@ -190,7 +190,7 @@ We believe in advancing together rather than individually.
                         <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
                             <div class="services-info mt-4 mt-lg-0 mt-md-0">
                                 <h4 class="services-title mb-1 mb-lg-2">
-                                    <a class="services-title-link" href="services-detail.html">.Py portal</a>
+                                    <a class="services-title-link" href="services-detail.html">MSP</a>
                                 </h4>
 
                                 <p>Best python learnig Provider Ipsum dolor sit consectetur kengan</p>
@@ -268,99 +268,106 @@ We believe in advancing together rather than individually.
     <div class="section-overlay"></div>
 
     <div class="container">
-        <div class="row">
+            <div class="row">
+              <div class="col-lg-12 col-12 text-center">
+                <h2 class="text-white mb-4">Governing Body</h2>
+              </div>
 
-            <div class="col-lg-12 col-12 text-center">
-                <h2 class="text-white mb-4">Our Achievements/ Team</h2>
-            </div>
-
-            <div class="col-lg-4 col-12">
+              <div class="col-lg-4 col-12">
                 <div class="featured-block">
-                    <div class="d-flex align-items-center mb-3">
-                        <img src="images/avatar/eloogo.jpg" class="avatar-image img-fluid" />
+                  <div class="d-flex align-items-center mb-3">
+                    <img src="" class="avatar-image img-fluid" />
 
-                        <div class="ms-3">
-                            <h4 class="mb-0">M</h4>
-
-                            
-                        </div>
+                    <div class="ms-3">
+                      <h4 class="mb-0">RANIYA FARHAN SHEIKH</h4>
+                      <h5 class="mb-0">Chief Coordinator</h5>
                     </div>
+                  </div>
 
-                    <p class="mb-0">Best lorem epsom Provider Ipsum dolor sit consectetur kengan</p>
+                  <p class="mb-0">
+                    Best lorem epsom Provider Ipsum dolor sit consectetur kengan
+                  </p>
                 </div>
 
                 <div class="featured-block mb-lg-0">
-                    <div class="d-flex align-items-center mb-3">
-                        <img src="images/avatar/ene.png" class="avatar-image img-fluid" />
+                  <div class="d-flex align-items-center mb-3">
+                    <img src="" class="avatar-image img-fluid" />
 
-                        <div class="ms-3">
-                            <h4 class="mb-0">N</h4>
-
-                        </div>
+                    <div class="ms-3">
+                      <h4 class="mb-0">UMAIMA KHAN</h4>
+                      <h5 class="mb-0">Vice Chief Coordinator</h5>
                     </div>
+                  </div>
 
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                  <p class="mb-0">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                    do eiusmod tempor incididunt ut labore et dolore.
+                  </p>
                 </div>
-            </div>
+              </div>
 
-            <div class="col-lg-4 col-12">
+              <div class="col-lg-4 col-12">
                 <div class="featured-block">
-                    <div class="d-flex align-items-center mb-3">
-                        <img src="images/avatar/logoe.png" class="avatar-image img-fluid" />
+                  <div class="d-flex align-items-center mb-3">
+                    <img
+                      src="images/avatar/eloogo.png"
+                      class="avatar-image img-fluid"
+                    />
 
-                        <div class="ms-3">
-                            <h4 class="mb-0">E</h4>
-
-                        </div>
+                    <div class="ms-3">
+                      <h4 class="mb-0">NABAHAT INJELA</h4>
+                      <h5 class="mb-0">Chief Representative</h5>
                     </div>
+                  </div>
 
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                  <p class="mb-0">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                    do eiusmod tempor incididunt ut labore et dolore.
+                  </p>
                 </div>
 
                 <div class="featured-block mb-lg-0">
-                    <div class="d-flex align-items-center mb-3">
-                        <img src="images/avatar/eloogo.jpg" class="avatar-image img-fluid" />
+                  <div class="d-flex align-items-center mb-3">
+                    <img
+                      src="images/avatar/eloogo.jpg"
+                      class="avatar-image img-fluid"
+                    />
 
-                        <div class="ms-3">
-                            <h4 class="mb-0">J</h4>
-
-                        </div>
+                    <div class="ms-3">
+                      <h4 class="mb-0">MOHAMMED SUFYAAN TALISH</h4>
+                      <h5 class="mb-0">Tech Lead</h5>
                     </div>
+                  </div>
 
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                  <p class="mb-0">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                    do eiusmod tempor.
+                  </p>
                 </div>
-            </div>
+              </div>
 
-            <div class="col-lg-4 col-12">
-                <div class="featured-block">
-                    <div class="d-flex align-items-center mb-3">
-                        <img src="images/avatar/ene.png" class="avatar-image img-fluid" />
-
-                        <div class="ms-3">
-                            <h4 class="mb-0">K</h4>
-
-                        </div>
-                    </div>
-
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-                </div>
-
+              <div class="col-lg-4 col-12">
                 <div class="featured-block mb-lg-0">
-                    <div class="d-flex align-items-center mb-3">
-                        <img src="images/avatar/logoe.png" class="avatar-image img-fluid" />
+                  <div class="d-flex align-items-center mb-3">
+                    <img
+                      src="images/avatar/eloogo.png"
+                      class="avatar-image img-fluid"
+                    />
 
-                        <div class="ms-3">
-                            <h4 class="mb-0">S</h4>
-
-                        </div>
+                    <div class="ms-3">
+                      <h4 class="mb-0">NADIA AREF</h4>
+                      <h5 class="mb-0">Principal Secretary</h5>
                     </div>
+                  </div>
 
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                  <p class="mb-0">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                    do eiusmod tempor.
+                  </p>
                 </div>
+              </div>
             </div>
-
         </div>
-    </div>
 </section>
 
 
@@ -373,23 +380,7 @@ We believe in advancing together rather than individually.
             </div>
 
             <div class="col-lg-2 col-md-4 col-6">
-                <img src="images/partners/toprak-leasing.svg" class="partners-image img-fluid" />
-            </div>
-
-            <div class="col-lg-2 col-md-4 col-6">
-                <img src="images/partners/glorix.svg" class="partners-image img-fluid" />
-            </div>
-
-            <div class="col-lg-2 col-md-4 col-6">
-                <img src="images/partners/woocommerce.svg" class="partners-image img-fluid" />
-            </div>
-
-            <div class="col-lg-2 col-md-4 col-6">
-                <img src="images/partners/rolf-leasing.svg" class="partners-image img-fluid" />
-            </div>
-
-            <div class="col-lg-2 col-md-4 col-6">
-                <img src="images/partners/unilabs.svg" class="partners-image img-fluid" />
+                <img src="images/partners/microsoftlogo.jpg" class="partners-image img-fluid" />
             </div>
 
         </div>

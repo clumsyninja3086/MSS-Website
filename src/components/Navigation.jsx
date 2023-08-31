@@ -11,7 +11,7 @@ function Navigation() {
             <div class="col-lg-12 col-12 d-flex flex-wrap">
                 <p class="d-flex me-4 mb-0">
                     <i class="bi-house-fill me-2"></i>
-                    One-Stop Entrepreneurship
+                    One-Stop Tech
                 </p>
 
                 <p class="d-flex d-lg-block d-md-block d-none me-4 mb-0">
@@ -23,7 +23,7 @@ function Navigation() {
                     <i class="bi-envelope-fill me-2"></i>
 
                     <a href="mailto:info@company.com" class="site-footer-link">
-                        ecell@gmail.com
+                        mss@gmail.com
                     </a>
                 </p>
                 <p class="text-white d-flex">
@@ -40,7 +40,7 @@ function Navigation() {
         <a class="navbar-brand" href="index.html">
             <img src="images/avatar/eloogo.png" class="logo img-fluid" alt="" />
 
-            <span class="ms-2">Ecell Mjcet</span>
+            <span class="ms-2">MSS Mjcet</span>
         </a>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
