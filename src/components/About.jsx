@@ -34,7 +34,7 @@ function About() {
           <div class="container">
             <div class="row">
               <div class="col-lg-6 col-12">
-                <img src="images/elogo.jfif" class="featured-image img-fluid" />
+                <img src="images/eloogo.png" class="featured-image img-fluid" />
               </div>
 
               <div class="col-lg-6 col-12">
@@ -92,7 +92,10 @@ function About() {
               <div class="col-lg-4 col-12">
                 <div class="featured-block">
                   <div class="d-flex align-items-center mb-3">
-                    <img src="" class="avatar-image img-fluid" />
+                    <img
+                      src="images\avatar\WhatsApp Image 2023-08-31 at 23.23.59.jpg"
+                      class="avatar-image img-fluid"
+                    />
 
                     <div class="ms-3">
                       <h4 class="mb-0">RANIYA FARHAN SHEIKH</h4>
@@ -107,7 +110,10 @@ function About() {
 
                 <div class="featured-block mb-lg-0">
                   <div class="d-flex align-items-center mb-3">
-                    <img src="" class="avatar-image img-fluid" />
+                    <img
+                      src="images\avatar\WhatsApp Image 2023-08-31 at 23.24.00.jpg"
+                      class="avatar-image img-fluid"
+                    />
 
                     <div class="ms-3">
                       <h4 class="mb-0">UMAIMA KHAN</h4>
@@ -126,7 +132,7 @@ function About() {
                 <div class="featured-block">
                   <div class="d-flex align-items-center mb-3">
                     <img
-                      src="images/avatar/logoe.png"
+                      src="images\avatar\WhatsApp Image 2023-08-31 at 23.200.jpg"
                       class="avatar-image img-fluid"
                     />
 
@@ -145,7 +151,7 @@ function About() {
                 <div class="featured-block mb-lg-0">
                   <div class="d-flex align-items-center mb-3">
                     <img
-                      src="images/avatar/eloogo.jpg"
+                      src="images\avatar\WhatsApp Image 2023-08-31 at 23.208.jpg"
                       class="avatar-image img-fluid"
                     />
 
@@ -166,7 +172,7 @@ function About() {
                 <div class="featured-block mb-lg-0">
                   <div class="d-flex align-items-center mb-3">
                     <img
-                      src="images/avatar/logoe.png"
+                      src="images\avatar\WhatsApp Image 2023-08-31 at 23.46.05.jpg"
                       class="avatar-image img-fluid"
                     />
 
@@ -202,11 +208,9 @@ function About() {
               <div class="col-lg-4 col-12">
                 <div class="featured-block">
                   <div class="d-flex align-items-center mb-3">
-                    <img src="" class="avatar-image img-fluid" />
-
                     <div class="ms-3">
-                      <h4 class="mb-0">RANIYA FARHAN SHEIKH</h4>
-                      <h5 class="mb-0">Chief Coordinator</h5>
+                      <h4 class="mb-0">MOHAMMED HISHAM SAEED</h4>
+                      <h5 class="mb-0">Projects Head</h5>
                     </div>
                   </div>
 
@@ -214,23 +218,63 @@ function About() {
                     Best lorem epsom Provider Ipsum dolor sit consectetur kengan
                   </p>
                 </div>
+              </div>
 
-                <div class="featured-block mb-lg-0">
+              <div class="col-lg-4 col-12">
+                <div class="featured-block">
                   <div class="d-flex align-items-center mb-3">
-                    <img
-                      src="images/avatar/ene.png"
-                      class="avatar-image img-fluid"
-                    />
-
                     <div class="ms-3">
-                      <h4 class="mb-0">UMAIMA KHAN</h4>
-                      <h5 class="mb-0">Vice Chief Coordinator</h5>
+                      <h4 class="mb-0">ANABA ABBAS</h4>
+                      <h5 class="mb-0">Projects Head</h5>
                     </div>
                   </div>
 
                   <p class="mb-0">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod tempor incididunt ut labore et dolore.
+                  </p>
+                </div>
+              </div>
+
+              <div class="col-lg-4 col-12">
+                <div class="featured-block mb-lg-0">
+                  <div class="d-flex align-items-center mb-3">
+                    <div class="ms-3">
+                      <h4 class="mb-0">ABDUL RASHEED</h4>
+                      <h5 class="mb-0">Projects Head</h5>
+                    </div>
+                  </div>
+
+                  <p class="mb-0">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                    do eiusmod tempor.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="testimonial-section section-padding section-bg">
+          <div class="section-overlay"></div>
+
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-12 text-center">
+                <h3 class="text-white mb-4">MEDIA TEAM</h3>
+              </div>
+
+              <div class="col-lg-4 col-12">
+                <div class="featured-block">
+                  <div class="d-flex align-items-center mb-3">
+                    <div class="ms-3">
+                      <h4 class="mb-0">FAIZULLAH SHARIF</h4>
+                      <h5 class="mb-0">Media Head</h5>
+                    </div>
+                  </div>
+
+                  <p class="mb-0">
+                    Best lorem epsom Provider Ipsum dolor sit consectetur kengan
                   </p>
                 </div>
               </div>
@@ -238,14 +282,9 @@ function About() {
               <div class="col-lg-4 col-12">
                 <div class="featured-block">
                   <div class="d-flex align-items-center mb-3">
-                    <img
-                      src="images/avatar/logoe.png"
-                      class="avatar-image img-fluid"
-                    />
-
                     <div class="ms-3">
-                      <h4 class="mb-0">NABAHAT INJELA</h4>
-                      <h5 class="mb-0">Chief Representative</h5>
+                      <h4 class="mb-0">MOIZUDDIN</h4>
+                      <h5 class="mb-0">Media Head</h5>
                     </div>
                   </div>
 
@@ -254,44 +293,231 @@ function About() {
                     do eiusmod tempor incididunt ut labore et dolore.
                   </p>
                 </div>
+              </div>
+            </div>
+          </div>
+        </section>
 
-                <div class="featured-block mb-lg-0">
+        <section class="testimonial-section section-padding section-bg">
+          <div class="section-overlay"></div>
+
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-12 text-center">
+                <h3 class="text-white mb-4">DOCUMENTATION TEAM</h3>
+              </div>
+
+              <div class="col-lg-4 col-12">
+                <div class="featured-block">
                   <div class="d-flex align-items-center mb-3">
-                    <img
-                      src="images/avatar/eloogo.jpg"
-                      class="avatar-image img-fluid"
-                    />
-
                     <div class="ms-3">
-                      <h4 class="mb-0">MOHAMMED SUFYAAN TALISH</h4>
-                      <h5 class="mb-0">Tech Lead</h5>
+                      <h4 class="mb-0">ADEEB IBRAHIM</h4>
+                      <h5 class="mb-0">Documentation Head</h5>
                     </div>
                   </div>
 
                   <p class="mb-0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor.
+                    Best lorem epsom Provider Ipsum dolor sit consectetur kengan
                   </p>
                 </div>
               </div>
 
               <div class="col-lg-4 col-12">
-                <div class="featured-block mb-lg-0">
+                <div class="featured-block">
                   <div class="d-flex align-items-center mb-3">
-                    <img
-                      src="images/avatar/logoe.png"
-                      class="avatar-image img-fluid"
-                    />
-
                     <div class="ms-3">
-                      <h4 class="mb-0">NADIA AREF</h4>
-                      <h5 class="mb-0">Principal Secretary</h5>
+                      <h4 class="mb-0">MUJTABA BIABANI</h4>
+                      <h5 class="mb-0">Documentation Head</h5>
                     </div>
                   </div>
 
                   <p class="mb-0">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor.
+                    do eiusmod tempor incididunt ut labore et dolore.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="testimonial-section section-padding section-bg">
+          <div class="section-overlay"></div>
+
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-12 text-center">
+                <h3 class="text-white mb-4">MARKETING TEAM</h3>
+              </div>
+
+              <div class="col-lg-4 col-12">
+                <div class="featured-block">
+                  <div class="d-flex align-items-center mb-3">
+                    <div class="ms-3">
+                      <h4 class="mb-0">NABEEL</h4>
+                      <h5 class="mb-0">Marketing Head</h5>
+                    </div>
+                  </div>
+
+                  <p class="mb-0">
+                    Best lorem epsom Provider Ipsum dolor sit consectetur kengan
+                  </p>
+                </div>
+              </div>
+
+              <div class="col-lg-4 col-12">
+                <div class="featured-block">
+                  <div class="d-flex align-items-center mb-3">
+                    <div class="ms-3">
+                      <h4 class="mb-0">Poorvi Reddy</h4>
+                      <h5 class="mb-0">Marketing Head</h5>
+                    </div>
+                  </div>
+
+                  <p class="mb-0">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                    do eiusmod tempor incididunt ut labore et dolore.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="testimonial-section section-padding section-bg">
+          <div class="section-overlay"></div>
+
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-12 text-center">
+                <h3 class="text-white mb-4">DESIGN TEAM</h3>
+              </div>
+
+              <div class="col-lg-4 col-12">
+                <div class="featured-block">
+                  <div class="d-flex align-items-center mb-3">
+                    <div class="ms-3">
+                      <h4 class="mb-0">AFFAN</h4>
+                      <h5 class="mb-0">Design Head</h5>
+                    </div>
+                  </div>
+
+                  <p class="mb-0">
+                    Best lorem epsom Provider Ipsum dolor sit consectetur kengan
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="testimonial-section section-padding section-bg">
+          <div class="section-overlay"></div>
+
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-12 text-center">
+                <h3 class="text-white mb-4">EVENTS TEAM</h3>
+              </div>
+
+              <div class="col-lg-4 col-12">
+                <div class="featured-block">
+                  <div class="d-flex align-items-center mb-3">
+                    <div class="ms-3">
+                      <h4 class="mb-0">SHAFAAT HUSSAIN</h4>
+                      <h5 class="mb-0">Events Head</h5>
+                    </div>
+                  </div>
+
+                  <p class="mb-0">
+                    Best lorem epsom Provider Ipsum dolor sit consectetur kengan
+                  </p>
+                </div>
+              </div>
+
+              <div class="col-lg-4 col-12">
+                <div class="featured-block">
+                  <div class="d-flex align-items-center mb-3">
+                    <div class="ms-3">
+                      <h4 class="mb-0">ZAYNAB KHAN</h4>
+                      <h5 class="mb-0">Events Head</h5>
+                    </div>
+                  </div>
+
+                  <p class="mb-0">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                    do eiusmod tempor incididunt ut labore et dolore.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="testimonial-section section-padding section-bg">
+          <div class="section-overlay"></div>
+
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-12 text-center">
+                <h3 class="text-white mb-4">HUMAN RESOURCES</h3>
+              </div>
+
+              <div class="col-lg-4 col-12">
+                <div class="featured-block">
+                  <div class="d-flex align-items-center mb-3">
+                    <div class="ms-3">
+                      <h4 class="mb-0">SYED ANAS</h4>
+                      <h5 class="mb-0">HR Head</h5>
+                    </div>
+                  </div>
+
+                  <p class="mb-0">
+                    Best lorem epsom Provider Ipsum dolor sit consectetur kengan
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="testimonial-section section-padding section-bg">
+          <div class="section-overlay"></div>
+
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-12 text-center">
+                <h3 class="text-white mb-4">OPERATIONS TEAM</h3>
+              </div>
+
+              <div class="col-lg-4 col-12">
+                <div class="featured-block">
+                  <div class="d-flex align-items-center mb-3">
+                    <div class="ms-3">
+                      <h4 class="mb-0">SYED ABUL HAYYAJ</h4>
+                      <h5 class="mb-0">Operations Head</h5>
+                    </div>
+                  </div>
+
+                  <p class="mb-0">
+                    Best lorem epsom Provider Ipsum dolor sit consectetur kengan
+                    dfdsfdfdsf efsdafdsf asdsadasd asdsad aasadsadasd
+                  </p>
+                </div>
+              </div>
+
+              <div class="col-lg-4 col-12">
+                <div class="featured-block">
+                  <div class="d-flex align-items-center mb-3">
+                    <div class="ms-3">
+                      <h4 class="mb-0">MUSAIB KHAN</h4>
+                      <h5 class="mb-0">Operations Head</h5>
+                    </div>
+                  </div>
+
+                  <p class="mb-0">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                    do eiusmod tempor incididunt ut labore et dolore.
                   </p>
                 </div>
               </div>
@@ -307,38 +533,10 @@ function About() {
                   Trusted by{" "}
                 </h4>
               </div>
-
+              <br />
               <div class="col-lg-2 col-md-4 col-6">
                 <img
-                  src="images/partners/toprak-leasing.svg"
-                  class="partners-image img-fluid"
-                />
-              </div>
-
-              <div class="col-lg-2 col-md-4 col-6">
-                <img
-                  src="images/partners/glorix.svg"
-                  class="partners-image img-fluid"
-                />
-              </div>
-
-              <div class="col-lg-2 col-md-4 col-6">
-                <img
-                  src="images/partners/woocommerce.svg"
-                  class="partners-image img-fluid"
-                />
-              </div>
-
-              <div class="col-lg-2 col-md-4 col-6">
-                <img
-                  src="images/partners/rolf-leasing.svg"
-                  class="partners-image img-fluid"
-                />
-              </div>
-
-              <div class="col-lg-2 col-md-4 col-6">
-                <img
-                  src="images/partners/unilabs.svg"
+                  src="images\partners\Microsoft_logo_(2012).svg"
                   class="partners-image img-fluid"
                 />
               </div>
