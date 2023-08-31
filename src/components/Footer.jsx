@@ -10,7 +10,7 @@ function Footer() {
 
                     <div class="col-lg-12 col-12 d-flex align-items-center mb-4 pb-2">
                         <div>
-                            <img src="images/elogo.jfif" class="logo img-fluid" alt="" />
+                            <img src="images/avatar/eloogo.png" class="logo img-fluid" alt="" />
                         </div>
 
                         <ul class="footer-menu d-flex flex-wrap ms-5">
@@ -31,35 +31,35 @@ function Footer() {
                             <li class="footer-menu-item">
                                 <a href="#" class="footer-menu-link">
                                     <i class="bi-chevron-double-right footer-menu-link-icon me-2"></i>
-                                    Entrepreneurship
+                                    AI/ML
                                 </a>
                             </li>
 
                             <li class="footer-menu-item">
                                 <a href="#" class="footer-menu-link">
                                     <i class="bi-chevron-double-right footer-menu-link-icon me-2"></i>
-                                    Incubation
+                                    Web Dev
                                 </a>
                             </li>
 
                             <li class="footer-menu-item">
                                 <a href="#" class="footer-menu-link">
                                     <i class="bi-chevron-double-right footer-menu-link-icon me-2"></i>
-                                    E-Skills
+                                    App Dev
                                 </a>
                             </li>
 
                             <li class="footer-menu-item">
                                 <a href="#" class="footer-menu-link">
                                     <i class="bi-chevron-double-right footer-menu-link-icon me-2"></i>
-                                    Business Plan
+                                    UI/UX
                                 </a>
                             </li>
 
                             <li class="footer-menu-item">
                                 <a href="#" class="footer-menu-link">
                                     <i class="bi-chevron-double-right footer-menu-link-icon me-2"></i>
-                                    Business Dev
+                                    Cloud
                                 </a>
                             </li>
                         </ul>
@@ -86,27 +86,27 @@ function Footer() {
                             <i class="bi-envelope-fill me-2"></i>
 
                             <a href="mailto:info@company.com" class="site-footer-link">
-                                ecell@gmail.com
+                                MSS@gmail.com
                             </a>
                         </p>
 
                         <ul class="social-icon mt-4">
                             <li class="social-icon-item">
-                                <a href="https://twitter.com/ecellmjcet" class="social-icon-link button button--skoll">
+                                <a href="" class="social-icon-link button button--skoll">
                                     <span></span>
                                     <span class="bi-twitter"></span>
                                 </a>
                             </li>
 
                             <li class="social-icon-item">
-                                <a href="https://www.facebook.com/groups/ecellmj/" class="social-icon-link button button--skoll">
+                                <a href="" class="social-icon-link button button--skoll">
                                     <span></span>
                                     <span class="bi-facebook"></span>
                                 </a>
                             </li>
 
                             <li class="social-icon-item">
-                                <a href="https://www.instagram.com/ecellmjcet/?hl=en" class="social-icon-link button button--skoll">
+                                <a href="" class="social-icon-link button button--skoll">
                                     <span></span>
                                     <span class="bi-instagram"></span>
                                 </a>
@@ -135,13 +135,9 @@ function Footer() {
                     <div class="row">
 
                         <div class="col-lg-6 col-12">
-                            <p class="copyright-text mb-0">Copyright © 2036 Ecell Mjcet.</p>
+                            <p class="copyright-text mb-0">Copyright © 2023 MSS Mjcet.</p>
                         </div>
                         
-                        <div class="col-lg-6 col-12 text-end">
-                            <p class="copyright-text mb-0">
-                            // Designed by <a href="https://www.insta.com" target="_parent">Sufyaan</a> //</p>
-                        </div>
                         
                     </div>
                 </div>
