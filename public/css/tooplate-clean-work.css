@@ -6,49 +6,46 @@ https://www.tooplate.com/view/2132-clean-work
 
 */
 
-
-
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
 :root {
-  --white-color:                  #ffffff;
-  --primary-color:                #7cb8eb;
-  --secondary-color:              #4f83d1;
-  --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #4f83d1;
-  --custom-btn-bg-hover-color:    #7cb8eb;
-  --dark-color:                   #000000;
-  --p-color:                      #717275;
-  --border-color:                 #e9eaeb;
-  --link-hover-color:             #4f83d1;
+  --white-color: #ffffff;
+  --primary-color: #7cb8eb;
+  --secondary-color: #4f83d1;
+  --section-bg-color: #f0f8ff;
+  --custom-btn-bg-color: #4f83d1;
+  --custom-btn-bg-hover-color: #7cb8eb;
+  --dark-color: #000000;
+  --p-color: #717275;
+  --border-color: #e9eaeb;
+  --link-hover-color: #4f83d1;
 
-  --body-font-family:             'Poppins', sans-serif;
+  --body-font-family: "Poppins", sans-serif;
 
-  --h1-font-size:                 52px;
-  --h2-font-size:                 46px;
-  --h3-font-size:                 32px;
-  --h4-font-size:                 28px;
-  --h5-font-size:                 24px;
-  --h6-font-size:                 22px;
-  --p-font-size:                  16px;
-  --btn-font-size:                18px;
-  --copyright-font-size:          14px;
+  --h1-font-size: 52px;
+  --h2-font-size: 46px;
+  --h3-font-size: 32px;
+  --h4-font-size: 28px;
+  --h5-font-size: 24px;
+  --h6-font-size: 22px;
+  --p-font-size: 16px;
+  --btn-font-size: 18px;
+  --copyright-font-size: 14px;
 
-  --border-radius-large:          100px;
-  --border-radius-medium:         20px;
-  --border-radius-small:          10px;
+  --border-radius-large: 100px;
+  --border-radius-medium: 20px;
+  --border-radius-small: 10px;
 
-  --font-weight-normal:           400;
-  --font-weight-medium:           500;
-  --font-weight-bold:             700;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
 }
 
 body {
   background-color: var(--white-color);
-  font-family: var(--body-font-family); 
+  font-family: var(--body-font-family);
 }
-
 
 /*---------------------------------------
   TYPOGRAPHY               
@@ -109,7 +106,7 @@ ul li {
   font-weight: var(--font-weight-normal);
 }
 
-a, 
+a,
 button {
   touch-action: manipulation;
   transition: all 0.3s;
@@ -134,7 +131,6 @@ strong {
   color: var(--secondary-color);
   font-size: 10rem;
 }
-
 
 /*---------------------------------------
   SECTION               
@@ -166,7 +162,6 @@ strong {
 .section-overlay + .container {
   position: relative;
 }
-
 
 /*---------------------------------------
   ANIMATED HEADLINE               
@@ -373,7 +368,6 @@ strong {
   }
 }
 
-
 /*---------------------------------------
   CUSTOM LINK               
 -----------------------------------------*/
@@ -395,7 +389,7 @@ strong {
 }
 
 .link::before {
-  content: '';
+  content: "";
 }
 
 .link--herse::before {
@@ -511,15 +505,14 @@ strong {
 }
 
 .button--pan::before {
-  content: '';
+  content: "";
   transition: transform 0.3s cubic-bezier(0.7, 0, 0.2, 1);
 }
 
 .button--pan:hover::before {
   background: transparent;
-  transform: translate3d(0,-100%,0);
+  transform: translate3d(0, -100%, 0);
 }
-
 
 /*---------------------------------------
   CUSTOM BLOCK               
@@ -545,7 +538,6 @@ strong {
   color: var(--white-color);
 }
 
-
 /*---------------------------------------
   CUSTOM ICON COLOR               
 -----------------------------------------*/
@@ -557,7 +549,6 @@ strong {
   color: var(--custom-btn-bg-color);
 }
 
-
 /*---------------------------------------
   AVATAR IMAGE - TESTIMONIAL               
 -----------------------------------------*/
@@ -567,7 +558,6 @@ strong {
   height: 60px;
   object-fit: cover;
 }
-
 
 /*---------------------------------------
   CUSTOM BUTTON               
@@ -613,7 +603,6 @@ strong {
   color: var(--white-color);
 }
 
-
 /*---------------------------------------
   NAVIGATION              
 -----------------------------------------*/
@@ -658,7 +647,7 @@ strong {
   padding-bottom: 15px;
 }
 
-.navbar-nav .nav-link.active, 
+.navbar-nav .nav-link.active,
 .navbar-nav .nav-link:hover {
   background: transparent;
   color: var(--primary-color);
@@ -666,7 +655,7 @@ strong {
 
 .dropdown-menu {
   background: var(--white-color);
-  box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
   border: 0;
   display: inherit;
   opacity: 0;
@@ -699,9 +688,9 @@ strong {
   padding-bottom: 7px;
 }
 
-.dropdown-item.active, 
+.dropdown-item.active,
 .dropdown-item:active,
-.dropdown-item:focus, 
+.dropdown-item:focus,
 .dropdown-item:hover {
   background: transparent;
   color: var(--primary-color);
@@ -717,7 +706,7 @@ strong {
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-  vertical-align: -.125em;
+  vertical-align: -0.125em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   position: relative;
@@ -756,7 +745,8 @@ strong {
 .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:after {
   transition: top 300ms 50ms ease, -webkit-transform 300ms 350ms ease;
   transition: top 300ms 50ms ease, transform 300ms 350ms ease;
-  transition: top 300ms 50ms ease, transform 300ms 350ms ease, -webkit-transform 300ms 350ms ease;
+  transition: top 300ms 50ms ease, transform 300ms 350ms ease,
+    -webkit-transform 300ms 350ms ease;
   top: 0;
 }
 
@@ -781,14 +771,15 @@ strong {
 .navbar-toggler .navbar-toggler-icon:after {
   transition: top 300ms 350ms ease, -webkit-transform 300ms 50ms ease;
   transition: top 300ms 350ms ease, transform 300ms 50ms ease;
-  transition: top 300ms 350ms ease, transform 300ms 50ms ease, -webkit-transform 300ms 50ms ease;
+  transition: top 300ms 350ms ease, transform 300ms 50ms ease,
+    -webkit-transform 300ms 50ms ease;
   position: absolute;
   right: 0;
   left: 0;
   background: var(--dark-color);
   width: 30px;
   height: 2px;
-  content: '';
+  content: "";
 }
 
 .navbar-toggler .navbar-toggler-icon::before {
@@ -798,7 +789,6 @@ strong {
 .navbar-toggler .navbar-toggler-icon::after {
   top: 8px;
 }
-
 
 /*---------------------------------------
   SITE HEADER              
@@ -834,12 +824,10 @@ strong {
   display: inline-block;
 }
 
-
 /*---------------------------------------
   HERO        
 -----------------------------------------*/
 .hero-section {
-  
   position: relative;
   overflow: hidden;
   padding-top: 100px;
@@ -866,7 +854,6 @@ strong {
   }
 }
 
-
 /*---------------------------------------
   INTRO        
 -----------------------------------------*/
@@ -874,13 +861,12 @@ strong {
   padding-top: 50px;
 }
 
-
 /*---------------------------------------
   BANNER        
 -----------------------------------------*/
 .banner-section {
-  background-image: url('../images/slideshow/eban3.jpg');
-  
+  background-image: url("../images/slideshow/eban3.jpg");
+
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -895,11 +881,10 @@ strong {
   margin-bottom: 0;
 }
 
-.breadcrumb-item+.breadcrumb-item::before,
+.breadcrumb-item + .breadcrumb-item::before,
 .breadcrumb-item.active {
   color: var(--white-color);
 }
-
 
 /*---------------------------------------
   COUNTDOWN              
@@ -950,7 +935,6 @@ strong {
   left: 0;
 }
 
-
 /*---------------------------------------
   FEATURED              
 -----------------------------------------*/
@@ -961,7 +945,6 @@ strong {
 .featured-block {
   padding: 20px;
 }
-
 
 /*---------------------------------------
   ABOUT              
@@ -1004,7 +987,6 @@ strong {
 .gallery-image:hover {
   transform: scale(1.02);
 }
-
 
 /*---------------------------------------
   SERVICES              
@@ -1075,12 +1057,11 @@ strong {
   height: 100%;
 }
 
-
 /*---------------------------------------
   TESTIMONIAL              
 -----------------------------------------*/
 .testimonial-section {
-  background-image: url('../images/coffe-shop-with-wooden-walls-unfocused.jpg');
+  background-image: url("../images/coffe-shop-with-wooden-walls-unfocused.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -1098,8 +1079,6 @@ strong {
 .testimonial-section .featured-block p {
   color: var(--white-color);
 }
-
-
 
 /*---------------------------------------
   PARTNERS              
@@ -1130,7 +1109,6 @@ strong {
   transform: scale(1.05);
 }
 
-
 /*---------------------------------------
   COUNTER NUMBERS              
 -----------------------------------------*/
@@ -1151,7 +1129,6 @@ strong {
   font-weight: var(--font-weight-bold);
   line-height: normal;
 }
-
 
 /*---------------------------------------
   CONTACT               
@@ -1184,7 +1161,6 @@ strong {
 .contact-info h5 a:hover {
   color: var(--link-hover-color);
 }
-
 
 /*---------------------------------------
   CUSTOM FORM               
@@ -1254,9 +1230,9 @@ strong {
   text-align: center;
 }
 
-.form-check-radio .form-check-input[type=radio] {
+.form-check-radio .form-check-input[type="radio"] {
   background-color: var(--section-bg-color);
-  border-radius: .25rem;
+  border-radius: 0.25rem;
   border: 0;
   box-shadow: none;
   outline: none;
@@ -1267,11 +1243,11 @@ strong {
   transition: all 0.3s;
 }
 
-.form-check-radio .form-check-input:checked[type=radio] {
+.form-check-radio .form-check-input:checked[type="radio"] {
   background-image: none;
 }
 
-.form-check-radio .form-check-input:checked[type=radio] + .form-check-label,
+.form-check-radio .form-check-input:checked[type="radio"] + .form-check-label,
 .form-check-radio .form-check-input:hover + .form-check-label,
 .form-check-radio .form-check-input:checked + .form-check-label {
   color: var(--white-color);
@@ -1284,11 +1260,11 @@ strong {
 }
 
 .input-group-file {
-  border-radius: .25rem;
-  padding: 13px .75rem;
+  border-radius: 0.25rem;
+  padding: 13px 0.75rem;
 }
 
-.input-group-file input[type=file] {
+.input-group-file input[type="file"] {
   width: 0.1px;
   height: 0.1px;
   opacity: 0;
@@ -1334,7 +1310,6 @@ strong {
   font-size: var(--h2-font-size);
   color: var(--white-color);
 }
-
 
 /*---------------------------------------
   SITE FOOTER              
@@ -1382,13 +1357,12 @@ strong {
 }
 
 .site-footer-bottom a {
-	color: var(--white-color);
+  color: var(--white-color);
 }
 
 .site-footer-bottom a:hover {
-	color: var(--link-hover-color);
+  color: var(--link-hover-color);
 }
-
 
 /*---------------------------------------
   FOOTER MENU               
@@ -1412,7 +1386,6 @@ strong {
   margin-right: 20px;
   margin-bottom: 5px;
 }
-
 
 /*---------------------------------------
   SOCIAL ICON               
@@ -1468,21 +1441,20 @@ strong {
 }
 
 .button--skoll::before {
-  content: '';
+  content: "";
   background: var(--custom-btn-bg-color);
   width: 100%;
   height: 0;
   padding-bottom: 100%;
   border-radius: 50%;
-  transform: translate3d(0,0,0);
+  transform: translate3d(0, 0, 0);
   transition: transform 0.3s;
   transition-timing-function: cubic-bezier(0.7, 0, 0.2, 1);
 }
 
 .button--skoll:hover::before {
-  transform: translate3d(0,100%,0);
+  transform: translate3d(0, 100%, 0);
 }
-
 
 /*---------------------------------------
   RESPONSIVE STYLES               
@@ -1590,7 +1562,6 @@ strong {
 }
 
 @media screen and (max-width: 767px) {
-
   .custom-btn {
     font-size: 14px;
     padding: 10px 20px;
@@ -1633,4 +1604,3 @@ strong {
     font-size: 20px;
   }
 }
-
